@@ -11,3 +11,7 @@ def contador(i, f, p):
 contador(2, 10, 2)
 
 print('hdhdhh')
+
+def somar(a,b):
+    return a+b
+print(somar(2,6))
