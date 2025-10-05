@@ -15,3 +15,5 @@ print('hdhdhh')
 def somar(a,b):
     return a+b
 print(somar(2,6))
+
+print('Olá meu nome é Alicia Ferrão')
