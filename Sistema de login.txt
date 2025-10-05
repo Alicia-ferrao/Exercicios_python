@@ -1,0 +1,2 @@
+Print("Digite o seu e-mail :")
+print("Digite o seu nome : ")
